@@ -1,0 +1,139 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`TableComponent > should create component 1`] = `
+<table-component>
+  <div
+    class="card p-3 table-responsive-sm mb-3"
+  >
+    
+      
+    <table
+      aria-label="List of farms with information about address, area, unit of measurement, and their productions."
+      class="table table-hover table-striped"
+    >
+      
+        
+      <thead>
+        
+          
+        <tr>
+          
+            
+          <th
+            scope="col"
+          >
+            Farm
+          </th>
+          
+            
+          <th
+            scope="col"
+          >
+            Address
+          </th>
+          
+            
+          <th
+            scope="col"
+          >
+            Land area
+          </th>
+          
+            
+          <th
+            scope="col"
+          >
+            Unit of measure
+          </th>
+          
+            
+          <th
+            scope="col"
+          >
+            Crop production
+          </th>
+          
+          
+        </tr>
+        
+        
+      </thead>
+      
+        
+      <tbody
+        class="table-group-divider"
+      >
+        <tr>
+          <td
+            class="text-center"
+            colspan="5"
+          >
+            No records found
+          </td>
+        </tr>
+      </tbody>
+      
+        
+    </table>
+                
+      
+  </div>
+  
+      
+      
+  <div
+    class="col-sm-auto"
+  >
+    
+        
+    <div
+      class="d-flex align-items-center gap-3"
+      id="page-size-selector"
+    >
+              
+          
+      <span>
+        Results per page
+      </span>
+      
+          
+      <select
+        aria-label="Select the number of items to display per page"
+        class="form-select w-auto"
+      >
+        
+            
+        <option
+          selected=""
+          value="10"
+        >
+          10
+        </option>
+        
+            
+        <option
+          value="25"
+        >
+          25
+        </option>
+        
+            
+        <option
+          value="50"
+        >
+          50
+        </option>
+        
+          
+      </select>
+      
+        
+    </div>
+    
+      
+  </div>
+  
+    
+    
+</table-component>
+`;

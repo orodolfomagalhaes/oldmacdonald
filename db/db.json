@@ -1,0 +1,1471 @@
+{
+  "farms": [
+    {
+      "farmName": "Fazenda São João",
+      "landArea": "1200",
+      "unitOfMeasure": "hectare",
+      "address": "Rod. BR-163, Km 742, Sorriso, MT",
+      "id": "f001"
+    },
+    {
+      "farmName": "Fazenda Santa Clara",
+      "landArea": "850",
+      "unitOfMeasure": "hectare",
+      "address": "Estrada Rural 45, Lucas do Rio Verde, MT",
+      "id": "f002"
+    },
+    {
+      "farmName": "Fazenda Horizonte Verde",
+      "landArea": "2500",
+      "unitOfMeasure": "acre",
+      "address": "Rod. MT-235, Km 85, Campo Novo do Parecis, MT",
+      "id": "f003"
+    },
+    {
+      "farmName": "Fazenda Bom Sucesso",
+      "landArea": "1800",
+      "unitOfMeasure": "hectare",
+      "address": "Estrada Municipal 78, Primavera do Leste, MT",
+      "id": "f004"
+    },
+    {
+      "farmName": "Fazenda Nova Esperança",
+      "landArea": "3200",
+      "unitOfMeasure": "acre",
+      "address": "Rod. BR-364, Km 123, Diamantino, MT",
+      "id": "f005"
+    },
+    {
+      "farmName": "Fazenda Vale Verde",
+      "landArea": "920",
+      "unitOfMeasure": "hectare",
+      "address": "Estrada do Vale, Km 15, Sinop, MT",
+      "id": "f006"
+    },
+    {
+      "farmName": "Fazenda Primavera",
+      "landArea": "1500",
+      "unitOfMeasure": "acre",
+      "address": "Rod. MT-170, Km 45, Campo Verde, MT",
+      "id": "f007"
+    },
+    {
+      "farmName": "Fazenda Santa Maria",
+      "landArea": "2800",
+      "unitOfMeasure": "hectare",
+      "address": "Estrada Rural 92, Nova Mutum, MT",
+      "id": "f008"
+    },
+    {
+      "farmName": "Fazenda Boa Vista",
+      "landArea": "1650",
+      "unitOfMeasure": "hectare",
+      "address": "Rod. BR-163, Km 456, Rondonópolis, MT",
+      "id": "f009"
+    },
+    {
+      "farmName": "Fazenda Rio Verde",
+      "landArea": "2100",
+      "unitOfMeasure": "hectare",
+      "address": "Estrada da Serra, Km 28, Tangará da Serra, MT",
+      "id": "f010"
+    },
+    {
+      "id": "f011",
+      "farmName": "Fazenda Aurora",
+      "landArea": 950,
+      "unitOfMeasure": "acre",
+      "address": "Rod. MT-208, Km 65, Alta Floresta, MT"
+    },
+    {
+      "id": "f012",
+      "farmName": "Fazenda Sol Nascente",
+      "landArea": 1750,
+      "unitOfMeasure": "hectare",
+      "address": "Estrada do Sol, Km 12, Canarana, MT"
+    },
+    {
+      "id": "f013",
+      "farmName": "Fazenda Paraíso",
+      "landArea": 3500,
+      "unitOfMeasure": "hectare",
+      "address": "Rod. BR-070, Km 258, Primavera do Leste, MT"
+    },
+    {
+      "id": "f014",
+      "farmName": "Fazenda Serra Azul",
+      "landArea": 1300,
+      "unitOfMeasure": "hectare",
+      "address": "Estrada da Serra, Km 42, Chapada dos Guimarães, MT"
+    },
+    {
+      "id": "f015",
+      "farmName": "Fazenda Santa Rosa",
+      "landArea": 2900,
+      "unitOfMeasure": "acre",
+      "address": "Rod. MT-140, Km 89, Santo Antônio do Leverger, MT"
+    },
+    {
+      "id": "f016",
+      "farmName": "Fazenda Alvorada",
+      "landArea": 1600,
+      "unitOfMeasure": "hectare",
+      "address": "Estrada do Campo, Km 33, Campo Novo do Parecis, MT"
+    },
+    {
+      "id": "f017",
+      "farmName": "Fazenda Monte Alto",
+      "landArea": 2400,
+      "unitOfMeasure": "hectare",
+      "address": "Rod. BR-364, Km 567, Jaciara, MT"
+    },
+    {
+      "id": "f018",
+      "farmName": "Fazenda Recanto",
+      "landArea": 1100,
+      "unitOfMeasure": "hectare",
+      "address": "Estrada Rural 156, Nova Xavantina, MT"
+    },
+    {
+      "id": "f019",
+      "farmName": "Fazenda São Francisco",
+      "landArea": 3100,
+      "unitOfMeasure": "acre",
+      "address": "Rod. MT-358, Km 123, Tangará da Serra, MT"
+    },
+    {
+      "id": "f020",
+      "farmName": "Fazenda Vista Alegre",
+      "landArea": 1900,
+      "unitOfMeasure": "hectare",
+      "address": "Estrada do Vale, Km 78, Sorriso, MT"
+    },
+    {
+      "id": "f021",
+      "farmName": "Fazenda Bela Vista",
+      "landArea": 2700,
+      "unitOfMeasure": "hectare",
+      "address": "Rod. BR-163, Km 890, Lucas do Rio Verde, MT"
+    },
+    {
+      "id": "f022",
+      "farmName": "Fazenda Santa Luzia",
+      "landArea": 1400,
+      "unitOfMeasure": "hectare",
+      "address": "Estrada Municipal 234, Sinop, MT"
+    },
+    {
+      "id": "f023",
+      "farmName": "Fazenda São Pedro",
+      "landArea": 2200,
+      "unitOfMeasure": "acre",
+      "address": "Rod. MT-242, Km 45, Nova Mutum, MT"
+    },
+    {
+      "id": "f024",
+      "farmName": "Fazenda Esperança",
+      "landArea": 1850,
+      "unitOfMeasure": "hectare",
+      "address": "Estrada Rural 67, Campo Verde, MT"
+    },
+    {
+      "id": "f025",
+      "farmName": "Fazenda Novo Horizonte",
+      "landArea": 3300,
+      "unitOfMeasure": "hectare",
+      "address": "Rod. BR-364, Km 456, Diamantino, MT"
+    },
+    {
+      "id": "f026",
+      "farmName": "Fazenda Santa Helena",
+      "landArea": 980,
+      "unitOfMeasure": "hectare",
+      "address": "Estrada do Sol, Km 89, Rondonópolis, MT"
+    },
+    {
+      "id": "f027",
+      "farmName": "Fazenda Ipê Amarelo",
+      "landArea": 2150,
+      "unitOfMeasure": "hectare",
+      "address": "Rod. MT-130, Km 45, Primavera do Leste, MT"
+    },
+    {
+      "id": "f028",
+      "farmName": "Fazenda Araguaia",
+      "landArea": 1750,
+      "unitOfMeasure": "acre",
+      "address": "Estrada dos Bandeirantes, Km 12, Água Boa, MT"
+    },
+    {
+      "id": "f029",
+      "farmName": "Fazenda Boa Esperança",
+      "landArea": 2800,
+      "unitOfMeasure": "hectare",
+      "address": "Rod. BR-158, Km 242, Vila Rica, MT"
+    },
+    {
+      "id": "f030",
+      "farmName": "Fazenda Santo Antônio",
+      "landArea": 1950,
+      "unitOfMeasure": "hectare",
+      "address": "Estrada da Produção, Km 78, Sapezal, MT"
+    },
+    {
+      "id": "f031",
+      "farmName": "Fazenda Portal do Sol",
+      "landArea": 3100,
+      "unitOfMeasure": "hectare",
+      "address": "Rod. MT-220, Km 115, Juara, MT"
+    },
+    {
+      "id": "f032",
+      "farmName": "Fazenda Três Irmãos",
+      "landArea": 2250,
+      "unitOfMeasure": "acre",
+      "address": "Estrada Rural 189, Guarantã do Norte, MT"
+    },
+    {
+      "id": "f033",
+      "farmName": "Fazenda Santa Bárbara",
+      "landArea": 1680,
+      "unitOfMeasure": "hectare",
+      "address": "Rod. BR-070, Km 365, Poconé, MT"
+    },
+    {
+      "id": "f034",
+      "farmName": "Fazenda São José",
+      "landArea": 2900,
+      "unitOfMeasure": "hectare",
+      "address": "Estrada do Ouro, Km 23, Alto Araguaia, MT"
+    },
+    {
+      "id": "f035",
+      "farmName": "Fazenda Nova União",
+      "landArea": 2400,
+      "unitOfMeasure": "hectare",
+      "address": "Rod. MT-423, Km 67, Cáceres, MT"
+    },
+    {
+      "id": "f036",
+      "farmName": "Fazenda Bom Jardim",
+      "landArea": 2800,
+      "unitOfMeasure": "hectare",
+      "address": "Rod. BR-163, Km 892, Nova Canaã do Norte, MT"
+    },
+    {
+      "farmName": "Fazenda Terra Prometida",
+      "landArea": "3500",
+      "unitOfMeasure": "hectare",
+      "address": "Estrada da Produção, Km 45, Juína, MT",
+      "id": "f037"
+    },
+    {
+      "id": "f038",
+      "farmName": "Fazenda Bela Aurora",
+      "landArea": 1950,
+      "unitOfMeasure": "acre",
+      "address": "Rod. MT-320, Km 123, Colíder, MT"
+    },
+    {
+      "farmName": "Fazenda Recanto das Águas",
+      "landArea": "4200",
+      "unitOfMeasure": "hectare",
+      "address": "Estrada Municipal 234, Paranatinga, MT",
+      "id": "f039"
+    },
+    {
+      "id": "f040",
+      "farmName": "Fazenda Vale do Sol",
+      "landArea": 2750,
+      "unitOfMeasure": "hectare",
+      "address": "Rod. BR-158, Km 478, Confresa, MT"
+    },
+    {
+      "farmName": "Fazenda Eldorado",
+      "landArea": "3100",
+      "unitOfMeasure": "hectare",
+      "address": "Estrada Rural 567, Querência, MT",
+      "id": "f041"
+    },
+    {
+      "farmName": "Fazenda Alvorada do Campo",
+      "landArea": "2300",
+      "unitOfMeasure": "acre",
+      "address": "Rod. MT-208, Km 89, Alta Floresta, MT",
+      "id": "f042"
+    },
+    {
+      "farmName": "Fazenda Santa Vitória",
+      "landArea": "3800",
+      "unitOfMeasure": "hectare",
+      "address": "Estrada do Sol, Km 34, Barra do Garças, MT",
+      "id": "f043"
+    },
+    {
+      "id": "f044",
+      "farmName": "Fazenda Monte Verde",
+      "landArea": 2900,
+      "unitOfMeasure": "hectare",
+      "address": "Rod. BR-364, Km 567, São Félix do Araguaia, MT"
+    },
+    {
+      "farmName": "Fazenda Nova América",
+      "landArea": "4500",
+      "unitOfMeasure": "acre",
+      "address": "Estrada da Produção, Km 92, Tapurah, MT",
+      "id": "f045"
+    },
+    {
+      "id": "6157",
+      "farmName": "Fazenda São João",
+      "landArea": "1200",
+      "unitOfMeasure": "hectare",
+      "address": ""
+    },
+    {
+      "id": "1a02",
+      "farmName": "Fazenda Horizonte Verde",
+      "landArea": "1200",
+      "unitOfMeasure": "hectare",
+      "address": ""
+    },
+    {
+      "id": "7f7f",
+      "farmName": "Fazenda São João",
+      "landArea": "123123",
+      "unitOfMeasure": "hectare",
+      "address": ""
+    },
+    {
+      "id": "bc4a",
+      "farmName": "Fazenda São João",
+      "landArea": "1230",
+      "unitOfMeasure": "hectare",
+      "address": ""
+    },
+    {
+      "id": "610e",
+      "farmName": "Fazenda São João",
+      "landArea": "123",
+      "unitOfMeasure": "hectare",
+      "address": ""
+    }
+  ],
+  "cropTypes": [
+    {
+      "id": "ct001",
+      "name": "Soja"
+    },
+    {
+      "id": "ct002",
+      "name": "Milho"
+    },
+    {
+      "id": "ct003",
+      "name": "Algodão"
+    },
+    {
+      "id": "ct004",
+      "name": "Feijão"
+    },
+    {
+      "id": "ct005",
+      "name": "Café"
+    },
+    {
+      "id": "ct006",
+      "name": "Arroz"
+    },
+    {
+      "id": "ct007",
+      "name": "Trigo"
+    },
+    {
+      "id": "ct008",
+      "name": "Cana-de-açúcar"
+    },
+    {
+      "id": "ct009",
+      "name": "Cevada"
+    },
+    {
+      "id": "ct010",
+      "name": "Aveia"
+    }
+  ],
+  "cropProductions": [
+    {
+      "id": "cp001",
+      "cropTypeId": "",
+      "isIrrigated": true,
+      "isInsured": false,
+      "farmId": "789"
+    },
+    {
+      "id": "cp002",
+      "cropTypeId": "",
+      "isIrrigated": true,
+      "isInsured": false,
+      "farmId": "789"
+    },
+    {
+      "id": "cp003",
+      "cropTypeId": "ct003",
+      "isIrrigated": true,
+      "isInsured": true,
+      "farmId": "f002",
+      "deletedAt": "2024-12-29T19:18:08.842Z"
+    },
+    {
+      "id": "cp004",
+      "cropTypeId": "ct001",
+      "isIrrigated": true,
+      "isInsured": false,
+      "farmId": "f003",
+      "deletedAt": "2024-12-28T17:27:49.780Z"
+    },
+    {
+      "id": "cp005",
+      "cropTypeId": "ct004",
+      "isIrrigated": true,
+      "isInsured": true,
+      "farmId": "f004"
+    },
+    {
+      "id": "cp006",
+      "cropTypeId": "ct002",
+      "isIrrigated": true,
+      "isInsured": true,
+      "farmId": "f005"
+    },
+    {
+      "id": "cp007",
+      "cropTypeId": "ct005",
+      "isIrrigated": true,
+      "isInsured": true,
+      "farmId": "f006"
+    },
+    {
+      "id": "cp008",
+      "cropTypeId": "ct006",
+      "isIrrigated": true,
+      "isInsured": false,
+      "farmId": "f007"
+    },
+    {
+      "id": "cp009",
+      "cropTypeId": "ct001",
+      "isIrrigated": false,
+      "isInsured": true,
+      "farmId": "f008"
+    },
+    {
+      "id": "cp010",
+      "cropTypeId": "ct003",
+      "isIrrigated": true,
+      "isInsured": true,
+      "farmId": "f009"
+    },
+    {
+      "id": "cp011",
+      "cropTypeId": "ct002",
+      "isIrrigated": true,
+      "isInsured": true,
+      "farmId": "f010"
+    },
+    {
+      "id": "cp012",
+      "farmId": "f011",
+      "cropTypeId": "ct007",
+      "isIrrigated": false,
+      "isInsured": true
+    },
+    {
+      "id": "cp013",
+      "farmId": "f012",
+      "cropTypeId": "ct001",
+      "isIrrigated": true,
+      "isInsured": true
+    },
+    {
+      "id": "cp014",
+      "farmId": "f013",
+      "cropTypeId": "ct002",
+      "isIrrigated": true,
+      "isInsured": false
+    },
+    {
+      "id": "cp015",
+      "farmId": "f014",
+      "cropTypeId": "ct008",
+      "isIrrigated": true,
+      "isInsured": true
+    },
+    {
+      "id": "cp016",
+      "farmId": "f015",
+      "cropTypeId": "ct003",
+      "isIrrigated": true,
+      "isInsured": true
+    },
+    {
+      "id": "cp017",
+      "farmId": "f016",
+      "cropTypeId": "ct001",
+      "isIrrigated": false,
+      "isInsured": true
+    },
+    {
+      "id": "cp018",
+      "farmId": "f017",
+      "cropTypeId": "ct002",
+      "isIrrigated": true,
+      "isInsured": true
+    },
+    {
+      "id": "cp019",
+      "farmId": "f018",
+      "cropTypeId": "ct004",
+      "isIrrigated": true,
+      "isInsured": false
+    },
+    {
+      "id": "cp020",
+      "farmId": "f019",
+      "cropTypeId": "ct001",
+      "isIrrigated": true,
+      "isInsured": true
+    },
+    {
+      "id": "cp021",
+      "farmId": "f020",
+      "cropTypeId": "ct003",
+      "isIrrigated": true,
+      "isInsured": true
+    },
+    {
+      "id": "cp022",
+      "farmId": "f021",
+      "cropTypeId": "ct002",
+      "isIrrigated": false,
+      "isInsured": true
+    },
+    {
+      "id": "cp023",
+      "farmId": "f022",
+      "cropTypeId": "ct005",
+      "isIrrigated": true,
+      "isInsured": false
+    },
+    {
+      "id": "cp024",
+      "farmId": "f023",
+      "cropTypeId": "ct001",
+      "isIrrigated": true,
+      "isInsured": true
+    },
+    {
+      "id": "cp025",
+      "farmId": "f024",
+      "cropTypeId": "ct006",
+      "isIrrigated": true,
+      "isInsured": true
+    },
+    {
+      "id": "cp026",
+      "farmId": "f025",
+      "cropTypeId": "ct002",
+      "isIrrigated": false,
+      "isInsured": true
+    },
+    {
+      "id": "cp027",
+      "farmId": "f026",
+      "cropTypeId": "ct007",
+      "isIrrigated": true,
+      "isInsured": false
+    },
+    {
+      "id": "cp028",
+      "farmId": "f027",
+      "cropTypeId": "ct001",
+      "isIrrigated": true,
+      "isInsured": true
+    },
+    {
+      "id": "cp029",
+      "farmId": "f028",
+      "cropTypeId": "ct003",
+      "isIrrigated": true,
+      "isInsured": true
+    },
+    {
+      "id": "cp030",
+      "farmId": "f029",
+      "cropTypeId": "ct002",
+      "isIrrigated": false,
+      "isInsured": true
+    },
+    {
+      "id": "cp031",
+      "farmId": "f030",
+      "cropTypeId": "ct008",
+      "isIrrigated": true,
+      "isInsured": false
+    },
+    {
+      "id": "cp032",
+      "farmId": "f031",
+      "cropTypeId": "ct001",
+      "isIrrigated": true,
+      "isInsured": true
+    },
+    {
+      "id": "cp033",
+      "farmId": "f032",
+      "cropTypeId": "ct004",
+      "isIrrigated": false,
+      "isInsured": true
+    },
+    {
+      "id": "cp034",
+      "farmId": "f033",
+      "cropTypeId": "ct006",
+      "isIrrigated": true,
+      "isInsured": true
+    },
+    {
+      "id": "cp035",
+      "farmId": "f034",
+      "cropTypeId": "ct002",
+      "isIrrigated": true,
+      "isInsured": false
+    },
+    {
+      "id": "cp036",
+      "farmId": "f035",
+      "cropTypeId": "ct007",
+      "isIrrigated": true,
+      "isInsured": true
+    },
+    {
+      "id": "cp037",
+      "farmId": "f036",
+      "cropTypeId": "ct001",
+      "isIrrigated": true,
+      "isInsured": true
+    },
+    {
+      "id": "cp038",
+      "farmId": "f036",
+      "cropTypeId": "ct002",
+      "isIrrigated": true,
+      "isInsured": true
+    },
+    {
+      "id": "cp039",
+      "farmId": "f036",
+      "cropTypeId": "ct008",
+      "isIrrigated": false,
+      "isInsured": true
+    },
+    {
+      "id": "cp040",
+      "farmId": "f037",
+      "cropTypeId": "ct003",
+      "isIrrigated": true,
+      "isInsured": true
+    },
+    {
+      "id": "cp041",
+      "farmId": "f037",
+      "cropTypeId": "ct001",
+      "isIrrigated": true,
+      "isInsured": true
+    },
+    {
+      "id": "cp042",
+      "farmId": "f037",
+      "cropTypeId": "ct007",
+      "isIrrigated": false,
+      "isInsured": false
+    },
+    {
+      "id": "cp043",
+      "farmId": "f037",
+      "cropTypeId": "ct002",
+      "isIrrigated": true,
+      "isInsured": true
+    },
+    {
+      "id": "cp044",
+      "farmId": "f038",
+      "cropTypeId": "ct001",
+      "isIrrigated": true,
+      "isInsured": true
+    },
+    {
+      "id": "cp045",
+      "farmId": "f038",
+      "cropTypeId": "ct004",
+      "isIrrigated": true,
+      "isInsured": false
+    },
+    {
+      "id": "cp046",
+      "farmId": "f039",
+      "cropTypeId": "ct006",
+      "isIrrigated": true,
+      "isInsured": true
+    },
+    {
+      "id": "cp047",
+      "farmId": "f039",
+      "cropTypeId": "ct002",
+      "isIrrigated": true,
+      "isInsured": true
+    },
+    {
+      "id": "cp048",
+      "farmId": "f039",
+      "cropTypeId": "ct001",
+      "isIrrigated": false,
+      "isInsured": true
+    },
+    {
+      "id": "cp049",
+      "farmId": "f040",
+      "cropTypeId": "ct001",
+      "isIrrigated": true,
+      "isInsured": true
+    },
+    {
+      "id": "cp050",
+      "farmId": "f040",
+      "cropTypeId": "ct003",
+      "isIrrigated": true,
+      "isInsured": true
+    },
+    {
+      "id": "cp051",
+      "farmId": "f040",
+      "cropTypeId": "ct008",
+      "isIrrigated": false,
+      "isInsured": false
+    },
+    {
+      "id": "cp052",
+      "cropTypeId": "ct002",
+      "isIrrigated": true,
+      "isInsured": false,
+      "farmId": "f041"
+    },
+    {
+      "id": "cp053",
+      "cropTypeId": "ct001",
+      "isIrrigated": false,
+      "isInsured": true,
+      "farmId": "f041"
+    },
+    {
+      "id": "cp054",
+      "cropTypeId": "ct007",
+      "isIrrigated": true,
+      "isInsured": false,
+      "farmId": "f041"
+    },
+    {
+      "id": "cp055",
+      "cropTypeId": "ct004",
+      "isIrrigated": false,
+      "isInsured": true,
+      "farmId": "f041"
+    },
+    {
+      "id": "cp056",
+      "farmId": "f042",
+      "cropTypeId": "ct001",
+      "isIrrigated": true,
+      "isInsured": true
+    },
+    {
+      "id": "cp057",
+      "farmId": "f042",
+      "cropTypeId": "ct002",
+      "isIrrigated": false,
+      "isInsured": true
+    },
+    {
+      "id": "cp058",
+      "farmId": "f042",
+      "cropTypeId": "ct006",
+      "isIrrigated": true,
+      "isInsured": false
+    },
+    {
+      "id": "cp059",
+      "farmId": "f043",
+      "cropTypeId": "ct003",
+      "isIrrigated": true,
+      "isInsured": true
+    },
+    {
+      "id": "cp060",
+      "farmId": "f043",
+      "cropTypeId": "ct001",
+      "isIrrigated": true,
+      "isInsured": true
+    },
+    {
+      "id": "cp061",
+      "farmId": "f043",
+      "cropTypeId": "ct002",
+      "isIrrigated": true,
+      "isInsured": false
+    },
+    {
+      "id": "cp062",
+      "farmId": "f044",
+      "cropTypeId": "ct001",
+      "isIrrigated": true,
+      "isInsured": true
+    },
+    {
+      "id": "cp063",
+      "farmId": "f044",
+      "cropTypeId": "ct008",
+      "isIrrigated": false,
+      "isInsured": true
+    },
+    {
+      "id": "cp064",
+      "farmId": "f045",
+      "cropTypeId": "ct001",
+      "isIrrigated": true,
+      "isInsured": true,
+      "deletedAt": "2024-12-28T20:27:31.235Z"
+    },
+    {
+      "id": "cp065",
+      "farmId": "f045",
+      "cropTypeId": "ct002",
+      "isIrrigated": true,
+      "isInsured": true,
+      "deletedAt": "2024-12-28T20:27:30.228Z"
+    },
+    {
+      "id": "cp066",
+      "farmId": "f045",
+      "cropTypeId": "ct003",
+      "isIrrigated": true,
+      "isInsured": false
+    },
+    {
+      "id": "cp067",
+      "farmId": "f045",
+      "cropTypeId": "ct007",
+      "isIrrigated": false,
+      "isInsured": true
+    },
+    {
+      "id": "d00b",
+      "cropTypeId": "ct005",
+      "isIrrigated": true,
+      "isInsured": false,
+      "farmId": "f001",
+      "deletedAt": "2024-12-28T15:18:04.204Z"
+    },
+    {
+      "farmId": "f002",
+      "cropTypeId": "ct006",
+      "isIrrigated": false,
+      "isInsured": true,
+      "id": "a0ca",
+      "deletedAt": "2024-12-28T17:30:38.538Z"
+    },
+    {
+      "id": "a178",
+      "cropTypeId": "ct003",
+      "isIrrigated": false,
+      "isInsured": true,
+      "farmId": "f003",
+      "deletedAt": "2024-12-28T17:27:50.423Z"
+    },
+    {
+      "id": "bd72",
+      "cropTypeId": "ct009",
+      "isIrrigated": true,
+      "isInsured": true,
+      "farmId": "f003"
+    },
+    {
+      "id": "c382",
+      "cropTypeId": "ct001",
+      "isIrrigated": false,
+      "isInsured": true,
+      "farmId": "f005",
+      "deletedAt": "2024-12-28T17:29:43.656Z"
+    },
+    {
+      "id": "4015",
+      "cropTypeId": "ct005",
+      "isIrrigated": false,
+      "isInsured": true,
+      "farmId": "f005",
+      "deletedAt": "2024-12-28T17:29:44.456Z"
+    },
+    {
+      "id": "5fe1",
+      "cropTypeId": "ct009",
+      "isIrrigated": true,
+      "isInsured": true,
+      "farmId": "f001",
+      "deletedAt": "2024-12-28T20:10:05.966Z"
+    },
+    {
+      "id": "1174",
+      "cropTypeId": "ct001",
+      "isIrrigated": false,
+      "isInsured": true,
+      "farmId": "f002",
+      "deletedAt": "2024-12-29T19:17:37.801Z"
+    },
+    {
+      "id": "cdf4",
+      "cropTypeId": "ct001",
+      "isIrrigated": false,
+      "isInsured": true,
+      "farmId": "f003"
+    },
+    {
+      "id": "1c65",
+      "cropTypeId": "ct001",
+      "isIrrigated": false,
+      "isInsured": false,
+      "farmId": "f004"
+    },
+    {
+      "id": "c4d7",
+      "cropTypeId": "ct008",
+      "isIrrigated": true,
+      "isInsured": false,
+      "farmId": "f005"
+    },
+    {
+      "id": "c2fa",
+      "cropTypeId": "ct001",
+      "isIrrigated": false,
+      "isInsured": false,
+      "farmId": "f006"
+    },
+    {
+      "id": "1121",
+      "cropTypeId": "ct005",
+      "isIrrigated": true,
+      "isInsured": false,
+      "farmId": "f001",
+      "deletedAt": "2024-12-28T20:22:37.929Z"
+    },
+    {
+      "id": "c862",
+      "cropTypeId": "ct001",
+      "isIrrigated": false,
+      "isInsured": false,
+      "farmId": "f010"
+    },
+    {
+      "id": "ef75",
+      "cropTypeId": "ct006",
+      "isIrrigated": false,
+      "isInsured": true,
+      "farmId": "f009"
+    },
+    {
+      "id": "b2db",
+      "cropTypeId": "ct001",
+      "isIrrigated": false,
+      "isInsured": false,
+      "farmId": "f008"
+    },
+    {
+      "id": "20c8",
+      "cropTypeId": "ct001",
+      "isIrrigated": false,
+      "isInsured": false,
+      "farmId": "f007"
+    },
+    {
+      "id": "8ddc",
+      "cropTypeId": "ct006",
+      "isIrrigated": false,
+      "isInsured": true,
+      "farmId": "f001",
+      "deletedAt": "2024-12-28T20:15:00.695Z"
+    },
+    {
+      "id": "3191",
+      "cropTypeId": "ct001",
+      "isIrrigated": false,
+      "isInsured": true,
+      "farmId": "f001",
+      "deletedAt": "2024-12-28T20:15:38.036Z"
+    },
+    {
+      "id": "073c",
+      "cropTypeId": "ct002",
+      "isIrrigated": true,
+      "isInsured": false,
+      "farmId": "f001",
+      "deletedAt": "2024-12-28T20:15:38.559Z"
+    },
+    {
+      "id": "6a0c",
+      "cropTypeId": "ct008",
+      "isIrrigated": false,
+      "isInsured": true,
+      "farmId": "f001",
+      "deletedAt": "2024-12-28T20:15:39.209Z"
+    },
+    {
+      "id": "0488",
+      "cropTypeId": "ct010",
+      "isIrrigated": true,
+      "isInsured": false,
+      "farmId": "f001",
+      "deletedAt": "2024-12-29T19:18:36.457Z"
+    },
+    {
+      "id": "d5dc",
+      "cropTypeId": "ct008",
+      "isIrrigated": false,
+      "isInsured": true,
+      "farmId": "f001",
+      "deletedAt": "2024-12-28T20:42:58.573Z"
+    },
+    {
+      "id": "65f3",
+      "cropTypeId": "ct001",
+      "isIrrigated": true,
+      "isInsured": false,
+      "farmId": "f5b9"
+    },
+    {
+      "id": "028c",
+      "cropTypeId": "ct002",
+      "isIrrigated": false,
+      "isInsured": true,
+      "farmId": "f5b9"
+    },
+    {
+      "id": "bf49",
+      "cropTypeId": "ct001",
+      "isIrrigated": false,
+      "isInsured": false,
+      "farmId": null
+    },
+    {
+      "id": "0a7e",
+      "cropTypeId": "ct009",
+      "isIrrigated": false,
+      "isInsured": true,
+      "farmId": "f001",
+      "deletedAt": "2024-12-29T19:18:35.564Z"
+    },
+    {
+      "id": "50de",
+      "cropTypeId": "ct001",
+      "isIrrigated": false,
+      "isInsured": false,
+      "farmId": null
+    },
+    {
+      "id": "e8c6",
+      "cropTypeId": "ct001",
+      "isIrrigated": false,
+      "isInsured": false,
+      "farmId": null
+    },
+    {
+      "id": "b10c",
+      "cropTypeId": "ct001",
+      "isIrrigated": false,
+      "isInsured": false,
+      "farmId": null
+    },
+    {
+      "id": "93cb",
+      "cropTypeId": "ct001",
+      "isIrrigated": false,
+      "isInsured": false,
+      "farmId": null
+    },
+    {
+      "id": "5f0e",
+      "cropTypeId": "ct001",
+      "isIrrigated": false,
+      "isInsured": false,
+      "farmId": null
+    },
+    {
+      "id": "395d",
+      "cropTypeId": "ct001",
+      "isIrrigated": false,
+      "isInsured": false,
+      "farmId": null
+    },
+    {
+      "id": "efd9",
+      "cropTypeId": "ct001",
+      "isIrrigated": false,
+      "isInsured": false,
+      "farmId": "cf1f"
+    },
+    {
+      "id": "5383",
+      "cropTypeId": "ct001",
+      "isIrrigated": false,
+      "isInsured": false,
+      "farmId": "1e07"
+    },
+    {
+      "id": "53ab",
+      "cropTypeId": "ct001",
+      "isIrrigated": true,
+      "isInsured": false,
+      "farmId": "a1c2",
+      "deletedAt": "2024-12-29T19:12:15.291Z"
+    },
+    {
+      "id": "54b8",
+      "cropTypeId": "ct001",
+      "isIrrigated": false,
+      "isInsured": false,
+      "farmId": null
+    },
+    {
+      "id": "ea5a",
+      "cropTypeId": "ct001",
+      "isIrrigated": false,
+      "isInsured": false,
+      "farmId": null
+    },
+    {
+      "id": "f94e",
+      "cropTypeId": "ct001",
+      "isIrrigated": false,
+      "isInsured": false,
+      "farmId": null
+    },
+    {
+      "id": "5e6b",
+      "cropTypeId": "ct001",
+      "isIrrigated": false,
+      "isInsured": false,
+      "farmId": null
+    },
+    {
+      "id": "d519",
+      "cropTypeId": "ct001",
+      "isIrrigated": false,
+      "isInsured": false,
+      "farmId": null
+    },
+    {
+      "id": "1fbc",
+      "cropTypeId": "ct001",
+      "isIrrigated": false,
+      "isInsured": false,
+      "farmId": null
+    },
+    {
+      "id": "5ef3",
+      "cropTypeId": "ct001",
+      "isIrrigated": false,
+      "isInsured": false,
+      "farmId": null
+    },
+    {
+      "id": "e39a",
+      "cropTypeId": "ct001",
+      "isIrrigated": false,
+      "isInsured": false,
+      "farmId": null
+    },
+    {
+      "id": "79b2",
+      "cropTypeId": "ct001",
+      "isIrrigated": true,
+      "isInsured": true,
+      "farmId": null
+    },
+    {
+      "id": "a5da",
+      "cropTypeId": "ct001",
+      "isIrrigated": false,
+      "isInsured": true,
+      "farmId": null
+    },
+    {
+      "id": "e52f",
+      "cropTypeId": "ct001",
+      "isIrrigated": true,
+      "isInsured": true,
+      "farmId": null
+    },
+    {
+      "id": "f709",
+      "cropTypeId": "ct001",
+      "isIrrigated": false,
+      "isInsured": false,
+      "farmId": null
+    },
+    {
+      "id": "b585",
+      "cropTypeId": "ct001",
+      "isIrrigated": false,
+      "isInsured": false,
+      "farmId": null
+    },
+    {
+      "id": "17a9",
+      "cropTypeId": "ct008",
+      "isIrrigated": true,
+      "isInsured": false,
+      "farmId": "f001",
+      "deletedAt": "2024-12-29T19:18:34.873Z"
+    },
+    {
+      "id": "f112",
+      "cropTypeId": "ct002",
+      "isIrrigated": false,
+      "isInsured": true,
+      "farmId": "a1c2"
+    },
+    {
+      "id": "d762",
+      "cropTypeId": "ct008",
+      "isIrrigated": true,
+      "isInsured": true,
+      "farmId": "f041"
+    },
+    {
+      "id": "4978",
+      "cropTypeId": "ct007",
+      "isIrrigated": false,
+      "isInsured": true,
+      "farmId": "f001",
+      "deletedAt": "2024-12-29T19:18:33.492Z"
+    },
+    {
+      "id": "3721",
+      "cropTypeId": "ct001",
+      "isIrrigated": true,
+      "isInsured": false,
+      "farmId": "f001"
+    },
+    {
+      "id": "47d9",
+      "cropTypeId": "ct005",
+      "isIrrigated": true,
+      "isInsured": false,
+      "farmId": "f002",
+      "deletedAt": "2024-12-29T19:17:59.348Z"
+    },
+    {
+      "id": "18ed",
+      "cropTypeId": "ct001",
+      "isIrrigated": false,
+      "isInsured": true,
+      "farmId": "f002"
+    },
+    {
+      "id": "6ba3",
+      "cropTypeId": "ct002",
+      "isIrrigated": false,
+      "isInsured": true,
+      "farmId": "f001"
+    },
+    {
+      "id": "8c94",
+      "cropTypeId": "ct001",
+      "isIrrigated": false,
+      "isInsured": false,
+      "farmId": "aace"
+    },
+    {
+      "id": "7074",
+      "cropTypeId": "ct001",
+      "isIrrigated": true,
+      "isInsured": false,
+      "farmId": "0d8b"
+    },
+    {
+      "id": "b113",
+      "cropTypeId": "ct001",
+      "isIrrigated": true,
+      "isInsured": false,
+      "farmId": "1cb0"
+    },
+    {
+      "id": "f36d",
+      "cropTypeId": "ct001",
+      "isIrrigated": true,
+      "isInsured": false,
+      "farmId": "9e7d"
+    },
+    {
+      "id": "3abb",
+      "cropTypeId": "ct001",
+      "isIrrigated": true,
+      "isInsured": false,
+      "farmId": "064d"
+    },
+    {
+      "id": "4fa3",
+      "cropTypeId": "ct001",
+      "isIrrigated": true,
+      "isInsured": false,
+      "farmId": "baa6"
+    },
+    {
+      "id": "d053",
+      "cropTypeId": "ct001",
+      "isIrrigated": true,
+      "isInsured": false,
+      "farmId": "c49b"
+    },
+    {
+      "id": "b4bb",
+      "cropTypeId": "ct001",
+      "isIrrigated": true,
+      "isInsured": false,
+      "farmId": "2d4c"
+    },
+    {
+      "id": "2404",
+      "cropTypeId": "ct001",
+      "isIrrigated": true,
+      "isInsured": false,
+      "farmId": "6ea7"
+    },
+    {
+      "id": "ad97",
+      "cropTypeId": "ct001",
+      "isIrrigated": true,
+      "isInsured": false,
+      "farmId": "6645"
+    },
+    {
+      "id": "6f51",
+      "cropTypeId": "ct001",
+      "isIrrigated": true,
+      "isInsured": false,
+      "farmId": null
+    },
+    {
+      "id": "c5b1",
+      "cropTypeId": "",
+      "isIrrigated": false,
+      "isInsured": false,
+      "farmId": null
+    },
+    {
+      "id": "d662",
+      "cropTypeId": "",
+      "isIrrigated": false,
+      "isInsured": false,
+      "farmId": null
+    },
+    {
+      "id": "9786",
+      "cropTypeId": "ct001",
+      "isIrrigated": true,
+      "isInsured": true,
+      "farmId": "f001"
+    },
+    {
+      "id": "702b",
+      "cropTypeId": "ct005",
+      "isIrrigated": false,
+      "isInsured": true,
+      "farmId": null
+    },
+    {
+      "id": "59be",
+      "cropTypeId": "ct001",
+      "isIrrigated": true,
+      "isInsured": false,
+      "farmId": "6157"
+    },
+    {
+      "id": "3d93",
+      "cropTypeId": "ct001",
+      "isIrrigated": false,
+      "isInsured": false,
+      "farmId": "1a02"
+    },
+    {
+      "id": "a997",
+      "cropTypeId": "ct001",
+      "isIrrigated": false,
+      "isInsured": false,
+      "farmId": "7f7f"
+    },
+    {
+      "id": "d1ad",
+      "cropTypeId": "ct001",
+      "isIrrigated": false,
+      "isInsured": false,
+      "farmId": "bc4a"
+    },
+    {
+      "id": "f2b5",
+      "cropTypeId": "ct001",
+      "isIrrigated": false,
+      "isInsured": false,
+      "farmId": "610e"
+    },
+    {
+      "id": "ae80",
+      "cropTypeId": "ct001",
+      "isIrrigated": true,
+      "isInsured": false,
+      "farmId": null
+    },
+    {
+      "id": "b39f",
+      "cropTypeId": "ct001",
+      "isIrrigated": true,
+      "isInsured": false,
+      "farmId": null
+    },
+    {
+      "id": "5d25",
+      "cropTypeId": "ct005",
+      "isIrrigated": false,
+      "isInsured": true,
+      "farmId": null
+    },
+    {
+      "id": "3abe",
+      "cropTypeId": "ct001",
+      "isIrrigated": false,
+      "isInsured": false,
+      "farmId": null
+    },
+    {
+      "id": "dec4",
+      "cropTypeId": "ct001",
+      "isIrrigated": false,
+      "isInsured": false,
+      "farmId": null
+    },
+    {
+      "id": "53d2",
+      "cropTypeId": "ct001",
+      "isIrrigated": false,
+      "isInsured": true,
+      "farmId": null
+    }
+  ]
+}

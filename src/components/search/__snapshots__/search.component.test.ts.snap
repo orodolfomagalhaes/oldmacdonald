@@ -1,0 +1,65 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`SearchComponent > should create the search component 1`] = `
+<search-component>
+  
+    
+  <div
+    class="search-container mb-3"
+  >
+    
+      
+    <div
+      class="d-flex align-items-center gap-2 search-input-group"
+    >
+      
+        
+      <div
+        class="input-group"
+      >
+        
+          
+        <i
+          aria-hidden="true"
+          class="fa fa-search input-group-text"
+          id="basic-addon1"
+        />
+        
+          
+        <input
+          aria-describedby="basic-addon1"
+          aria-label="Search farm by full name"
+          class="form-control"
+          id="search-input"
+          placeholder="Farm name"
+          type="text"
+        />
+        
+        
+      </div>
+      
+        
+      <button
+        class="btn btn-link btn-clear d-none"
+        type="button"
+      >
+        clear
+      </button>
+      
+      
+    </div>
+    
+      
+    <i
+      aria-hidden="true"
+      aria-label="Please search using the full farm name, as the current version of json-server does not support filtering with regular expressions."
+      class="fa fa-info-circle fa-1"
+      data-bs-placement="right"
+      data-bs-title="Please search using the full farm name, as the current version of json-server does not support filtering with regular expressions."
+      data-bs-toggle="tooltip"
+    />
+         
+    
+  </div>
+</search-component>
+`;

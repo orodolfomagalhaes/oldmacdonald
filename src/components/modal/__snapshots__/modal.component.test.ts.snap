@@ -1,0 +1,1151 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`ModalComponent > should create component 1`] = `
+<modal-component>
+  
+      
+  <div
+    aria-hidden="true"
+    aria-labelledby="farmModalLabel"
+    class="modal"
+    id="farmModal"
+    tabindex="-1"
+  >
+    
+        
+    <div
+      class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable"
+    >
+      
+          
+      <div
+        class="modal-content"
+      >
+        
+          
+            
+        <div
+          class="modal-header"
+        >
+          
+              
+          <h5
+            class="modal-title"
+          >
+            Farm Registration
+          </h5>
+          
+              
+          <button
+            aria-label="Close modal"
+            class="btn-close"
+            data-bs-dismiss="modal"
+            type="button"
+          />
+          
+            
+        </div>
+        
+            
+            
+        <div
+          class="modal-body"
+        >
+          
+              
+          <form>
+            
+                
+            <div
+              class="mb-3"
+            >
+              
+                  
+              <label
+                class="form-label"
+              >
+                Farm Name *
+              </label>
+              
+                  
+              <input
+                aria-required="true"
+                class="form-control"
+                name="farmName"
+                required=""
+                type="text"
+                value=""
+              />
+              
+                
+            </div>
+            
+                
+            <div
+              class="row mb-3"
+            >
+              
+                  
+              <div
+                class="col-md-6"
+              >
+                
+                    
+                <label
+                  class="form-label"
+                >
+                  Land Area *
+                </label>
+                
+                    
+                <input
+                  aria-required="true"
+                  class="form-control"
+                  name="landArea"
+                  required=""
+                  type="number"
+                  value="0"
+                />
+                
+                  
+              </div>
+              
+                  
+              <div
+                class="col-md-6"
+              >
+                
+                    
+                <label
+                  class="form-label"
+                >
+                  Unit of Measure *
+                </label>
+                
+                    
+                <select
+                  class="form-select"
+                  name="unitOfMeasure"
+                >
+                  
+                      
+                  <option
+                    selected=""
+                    value="hectare"
+                  >
+                    Hectare
+                  </option>
+                  
+                      
+                  <option
+                    value="acre"
+                  >
+                    Acre
+                  </option>
+                  
+                    
+                </select>
+                
+                  
+              </div>
+              
+                
+            </div>
+            
+                
+            <div
+              class="mb-5"
+            >
+              
+                  
+              <label
+                class="form-label"
+              >
+                Address
+              </label>
+              
+                  
+              <textarea
+                class="form-control"
+                name="address"
+              />
+              
+                
+            </div>
+                        
+              
+          </form>
+          
+
+              
+          <div
+            class="mb-3"
+          >
+            
+                  
+            <div
+              class="d-flex justify-content-between align-items-center mb-2"
+              id="productions"
+            >
+              
+                    
+              <h6>
+                Crop Productions *
+              </h6>
+              
+                    
+              <button
+                class="btn btn-sm btn-primary add-production"
+                type="button"
+              >
+                
+                      Add Production
+                    
+              </button>
+              
+                  
+            </div>
+            
+
+                  
+            <div
+              id="production-list"
+            />
+            
+                
+          </div>
+                          
+            
+        </div>
+        
+            
+            
+        <div
+          class="modal-footer "
+        >
+          
+                          
+              
+          <div
+            class="main-buttons"
+          >
+            
+                
+            <button
+              class="btn btn-secondary"
+              data-bs-dismiss="modal"
+              type="button"
+            >
+              
+                  Cancel
+                
+            </button>
+            
+                
+            <button
+              class="btn btn-primary submit"
+              type="submit"
+            >
+              
+                  Save
+                
+            </button>
+            
+              
+          </div>
+          
+              
+            
+        </div>
+        
+          
+      </div>
+      
+        
+    </div>
+    
+      
+  </div>
+  
+      
+  <div
+    aria-hidden="true"
+    aria-labelledby="deleteConfirmationModalLabel"
+    class="modal"
+    id="deleteConfirmationModal"
+    tabindex="-1"
+  >
+    
+        
+    <div
+      class="modal-dialog modal-dialog-centered"
+    >
+      
+          
+      <div
+        class="modal-content"
+      >
+        
+            
+        <div
+          class="modal-header"
+        >
+          
+              
+          <h1
+            class="modal-title fs-5"
+            id="deleteConfirmationModalLabel"
+          >
+            Confirm deletion
+          </h1>
+          
+              
+          <button
+            aria-label="Close modal"
+            class="btn-close"
+            data-bs-dismiss="modal"
+            type="button"
+          />
+          
+            
+        </div>
+        
+            
+        <div
+          class="modal-body"
+        >
+          
+              Are you sure you want to delete this farm?
+            
+        </div>
+        
+            
+        <div
+          class="modal-footer"
+        >
+          
+              
+          <button
+            aria-label="Cancel deletion and return to the farm details modal"
+            class="btn btn-secondary back"
+          >
+            Back
+          </button>
+          
+              
+          <button
+            aria-label="Confirm deletion of the farm"
+            class="btn btn-danger confirm"
+          >
+            Do it!
+          </button>
+          
+            
+        </div>
+        
+          
+      </div>
+      
+        
+    </div>
+    
+      
+  </div>
+</modal-component>
+`;
+
+exports[`ModalComponent > should render modal with farm details when show-farm-detail event is called 1`] = `
+<modal-component>
+  
+      
+  <div
+    aria-hidden="true"
+    aria-labelledby="farmModalLabel"
+    class="modal"
+    id="farmModal"
+    tabindex="-1"
+  >
+    
+        
+    <div
+      class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable"
+    >
+      
+          
+      <div
+        class="modal-content"
+      >
+        
+          
+            
+        <div
+          class="modal-header"
+        >
+          
+              
+          <h5
+            class="modal-title"
+          >
+            Farm Registration
+          </h5>
+          
+              
+          <button
+            aria-label="Close modal"
+            class="btn-close"
+            data-bs-dismiss="modal"
+            type="button"
+          />
+          
+            
+        </div>
+        
+            
+            
+        <div
+          class="modal-body"
+        >
+          
+              
+          <form>
+            
+                
+            <div
+              class="mb-3"
+            >
+              
+                  
+              <label
+                class="form-label"
+              >
+                Farm Name *
+              </label>
+              
+                  
+              <input
+                aria-required="true"
+                class="form-control"
+                name="farmName"
+                required=""
+                type="text"
+                value="Fazenda Esperança"
+              />
+              
+                
+            </div>
+            
+                
+            <div
+              class="row mb-3"
+            >
+              
+                  
+              <div
+                class="col-md-6"
+              >
+                
+                    
+                <label
+                  class="form-label"
+                >
+                  Land Area *
+                </label>
+                
+                    
+                <input
+                  aria-required="true"
+                  class="form-control"
+                  name="landArea"
+                  required=""
+                  type="number"
+                  value="200"
+                />
+                
+                  
+              </div>
+              
+                  
+              <div
+                class="col-md-6"
+              >
+                
+                    
+                <label
+                  class="form-label"
+                >
+                  Unit of Measure *
+                </label>
+                
+                    
+                <select
+                  class="form-select"
+                  name="unitOfMeasure"
+                >
+                  
+                      
+                  <option
+                    selected=""
+                    value="hectare"
+                  >
+                    Hectare
+                  </option>
+                  
+                      
+                  <option
+                    value="acre"
+                  >
+                    Acre
+                  </option>
+                  
+                    
+                </select>
+                
+                  
+              </div>
+              
+                
+            </div>
+            
+                
+            <div
+              class="mb-5"
+            >
+              
+                  
+              <label
+                class="form-label"
+              >
+                Address
+              </label>
+              
+                  
+              <textarea
+                class="form-control"
+                name="address"
+              >
+                Rua do Campo, 123, Interior - SP
+              </textarea>
+              
+                
+            </div>
+                        
+              
+          </form>
+          
+
+              
+          <div
+            class="mb-3"
+          >
+            
+                  
+            <div
+              class="d-flex justify-content-between align-items-center mb-2"
+              id="productions"
+            >
+              
+                    
+              <h6>
+                Crop Productions *
+              </h6>
+              
+                    
+              <button
+                class="btn btn-sm btn-primary add-production"
+                type="button"
+              >
+                
+                      Add Production
+                    
+              </button>
+              
+                  
+            </div>
+            
+
+                  
+            <div
+              id="production-list"
+            >
+              <div
+                class="card mb-2"
+              >
+                <div
+                  class="card-body"
+                >
+                  
+        
+                  <form
+                    id="cp001"
+                  >
+                    
+          
+                    <div
+                      class="row"
+                    >
+                      
+            
+                      <div
+                        class="col-md-6"
+                      >
+                        
+              
+                        <label
+                          class="form-label"
+                        >
+                          Crop Type
+                        </label>
+                        
+              
+                        <select
+                          class="form-select"
+                          name="cropTypeId"
+                        >
+                          
+                
+                  
+                          <option
+                            selected=""
+                            value="ct001"
+                          >
+                            
+                    Soja
+                  
+                          </option>
+                          
+                
+                  
+                          <option
+                            value="ct002"
+                          >
+                            
+                    Milho
+                  
+                          </option>
+                          
+                
+                  
+                          <option
+                            value="ct003"
+                          >
+                            
+                    Algodão
+                  
+                          </option>
+                          
+                
+                  
+                          <option
+                            value="ct004"
+                          >
+                            
+                    Feijão
+                  
+                          </option>
+                          
+                
+                  
+                          <option
+                            value="ct005"
+                          >
+                            
+                    Café
+                  
+                          </option>
+                          
+                
+                  
+                          <option
+                            value="ct006"
+                          >
+                            
+                    Arroz
+                  
+                          </option>
+                          
+                
+                  
+                          <option
+                            value="ct007"
+                          >
+                            
+                    Trigo
+                  
+                          </option>
+                          
+                
+                  
+                          <option
+                            value="ct008"
+                          >
+                            
+                    Cana-de-açúcar
+                  
+                          </option>
+                          
+                
+                  
+                          <option
+                            value="ct009"
+                          >
+                            
+                    Cevada
+                  
+                          </option>
+                          
+                
+                  
+                          <option
+                            value="ct010"
+                          >
+                            
+                    Aveia
+                  
+                          </option>
+                          
+                
+              
+                        </select>
+                        
+            
+                      </div>
+                      
+            
+                      <div
+                        class="col-md-6"
+                      >
+                        
+              
+                        <div
+                          class="form-check mt-4"
+                        >
+                          
+                
+                          <input
+                            checked=""
+                            class="form-check-input"
+                            name="isIrrigated"
+                            type="checkbox"
+                          />
+                          
+                
+                          <label
+                            class="form-check-label"
+                          >
+                            Irrigated
+                          </label>
+                          
+              
+                        </div>
+                        
+              
+                        <div
+                          class="form-check"
+                        >
+                          
+                
+                          <input
+                            class="form-check-input"
+                            name="isInsured"
+                            type="checkbox"
+                          />
+                          
+                
+                          <label
+                            class="form-check-label"
+                          >
+                            Insured
+                          </label>
+                          
+              
+                        </div>
+                        
+            
+                      </div>
+                      
+        
+                    </div>
+                    
+        
+                  </form>
+                  
+        
+                  <button
+                    class="btn btn-sm btn-danger mt-2 remove"
+                    type="button"
+                  >
+                    
+          Remove
+        
+                  </button>
+                  
+      
+                </div>
+              </div>
+              <div
+                class="card mb-2"
+              >
+                <div
+                  class="card-body"
+                >
+                  
+        
+                  <form
+                    id="cp002"
+                  >
+                    
+          
+                    <div
+                      class="row"
+                    >
+                      
+            
+                      <div
+                        class="col-md-6"
+                      >
+                        
+              
+                        <label
+                          class="form-label"
+                        >
+                          Crop Type
+                        </label>
+                        
+              
+                        <select
+                          class="form-select"
+                          name="cropTypeId"
+                        >
+                          
+                
+                  
+                          <option
+                            value="ct001"
+                          >
+                            
+                    Soja
+                  
+                          </option>
+                          
+                
+                  
+                          <option
+                            selected=""
+                            value="ct002"
+                          >
+                            
+                    Milho
+                  
+                          </option>
+                          
+                
+                  
+                          <option
+                            value="ct003"
+                          >
+                            
+                    Algodão
+                  
+                          </option>
+                          
+                
+                  
+                          <option
+                            value="ct004"
+                          >
+                            
+                    Feijão
+                  
+                          </option>
+                          
+                
+                  
+                          <option
+                            value="ct005"
+                          >
+                            
+                    Café
+                  
+                          </option>
+                          
+                
+                  
+                          <option
+                            value="ct006"
+                          >
+                            
+                    Arroz
+                  
+                          </option>
+                          
+                
+                  
+                          <option
+                            value="ct007"
+                          >
+                            
+                    Trigo
+                  
+                          </option>
+                          
+                
+                  
+                          <option
+                            value="ct008"
+                          >
+                            
+                    Cana-de-açúcar
+                  
+                          </option>
+                          
+                
+                  
+                          <option
+                            value="ct009"
+                          >
+                            
+                    Cevada
+                  
+                          </option>
+                          
+                
+                  
+                          <option
+                            value="ct010"
+                          >
+                            
+                    Aveia
+                  
+                          </option>
+                          
+                
+              
+                        </select>
+                        
+            
+                      </div>
+                      
+            
+                      <div
+                        class="col-md-6"
+                      >
+                        
+              
+                        <div
+                          class="form-check mt-4"
+                        >
+                          
+                
+                          <input
+                            checked=""
+                            class="form-check-input"
+                            name="isIrrigated"
+                            type="checkbox"
+                          />
+                          
+                
+                          <label
+                            class="form-check-label"
+                          >
+                            Irrigated
+                          </label>
+                          
+              
+                        </div>
+                        
+              
+                        <div
+                          class="form-check"
+                        >
+                          
+                
+                          <input
+                            class="form-check-input"
+                            name="isInsured"
+                            type="checkbox"
+                          />
+                          
+                
+                          <label
+                            class="form-check-label"
+                          >
+                            Insured
+                          </label>
+                          
+              
+                        </div>
+                        
+            
+                      </div>
+                      
+        
+                    </div>
+                    
+        
+                  </form>
+                  
+        
+                  <button
+                    class="btn btn-sm btn-danger mt-2 remove"
+                    type="button"
+                  >
+                    
+          Remove
+        
+                  </button>
+                  
+      
+                </div>
+              </div>
+            </div>
+            
+                
+          </div>
+                          
+            
+        </div>
+        
+            
+            
+        <div
+          class="modal-footer justify-content-between"
+        >
+          
+              
+          <button
+            class="btn btn-danger delete"
+            type="button"
+          >
+            
+                        Delete Farm
+                      
+          </button>
+                      
+              
+          <div
+            class="main-buttons"
+          >
+            
+                
+            <button
+              class="btn btn-secondary"
+              data-bs-dismiss="modal"
+              type="button"
+            >
+              
+                  Cancel
+                
+            </button>
+            
+                
+            <button
+              class="btn btn-primary submit"
+              type="submit"
+            >
+              
+                  Save
+                
+            </button>
+            
+              
+          </div>
+          
+              
+            
+        </div>
+        
+          
+      </div>
+      
+        
+    </div>
+    
+      
+  </div>
+  
+      
+  <div
+    aria-hidden="true"
+    aria-labelledby="deleteConfirmationModalLabel"
+    class="modal"
+    id="deleteConfirmationModal"
+    tabindex="-1"
+  >
+    
+        
+    <div
+      class="modal-dialog modal-dialog-centered"
+    >
+      
+          
+      <div
+        class="modal-content"
+      >
+        
+            
+        <div
+          class="modal-header"
+        >
+          
+              
+          <h1
+            class="modal-title fs-5"
+            id="deleteConfirmationModalLabel"
+          >
+            Confirm deletion
+          </h1>
+          
+              
+          <button
+            aria-label="Close modal"
+            class="btn-close"
+            data-bs-dismiss="modal"
+            type="button"
+          />
+          
+            
+        </div>
+        
+            
+        <div
+          class="modal-body"
+        >
+          
+              Are you sure you want to delete this farm?
+            
+        </div>
+        
+            
+        <div
+          class="modal-footer"
+        >
+          
+              
+          <button
+            aria-label="Cancel deletion and return to the farm details modal"
+            class="btn btn-secondary back"
+          >
+            Back
+          </button>
+          
+              
+          <button
+            aria-label="Confirm deletion of the farm"
+            class="btn btn-danger confirm"
+          >
+            Do it!
+          </button>
+          
+            
+        </div>
+        
+          
+      </div>
+      
+        
+    </div>
+    
+      
+  </div>
+</modal-component>
+`;

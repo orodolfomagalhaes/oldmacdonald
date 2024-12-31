@@ -1,0 +1,61 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`HeaderComponent > should create the search component 1`] = `
+<header-component>
+  <div
+    class="header d-flex justify-content-between align-items-end"
+  >
+          
+      
+    <div
+      class="company-logo"
+    >
+      
+        
+      <h1>
+        Farms
+      </h1>
+      
+        
+      <span
+        class="text-body-secondary"
+      >
+        Manage your farms.
+      </span>
+      
+      
+    </div>
+    
+      
+    <div
+      class="actions"
+    >
+      
+        
+      <button
+        aria-label="Add a new farm"
+        class="btn btn-primary"
+        id="add-farm"
+        type="button"
+      >
+        
+            
+        <i
+          aria-hidden="true"
+          class="fa fa-plus me-1"
+        />
+        
+            Add Farm
+        
+      </button>
+      
+      
+    </div>
+                  
+    
+  </div>
+     
+    
+  <hr />
+</header-component>
+`;
